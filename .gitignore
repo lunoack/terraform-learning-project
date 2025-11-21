@@ -1,0 +1,5 @@
+.terraform/
+.terraform.lock.hcl
+/docker-lab/terraform.tfstate
+/docker-lab/terraform.tfstate.backup
+aws-lab/
