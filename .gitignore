@@ -1,5 +1,10 @@
+# Terraform
+*.tfstate
+*.tfstate.*
+crash.log
+crash.*.log
 .terraform/
 .terraform.lock.hcl
-/docker-lab/terraform.tfstate
-/docker-lab/terraform.tfstate.backup
+
+# Local .terraform directories
 aws-lab/
